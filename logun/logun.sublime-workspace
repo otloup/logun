@@ -1,0 +1,1730 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sPa",
+				"$sPath〔variable〕"
+			],
+			[
+				"parse",
+				"parseFormValues"
+			],
+			[
+				"oFi",
+				"$oField〔variable〕"
+			],
+			[
+				"call_user",
+				"call_user_method〔function〕"
+			],
+			[
+				"sOp",
+				"$sOptions〔variable〕"
+			],
+			[
+				"sO",
+				"$sOptions〔variable〕"
+			],
+			[
+				"se",
+				"setupOptions〔function〕"
+			],
+			[
+				"sAtt",
+				"$sAttributesHtml〔variable〕"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"oP",
+				"$oParent〔variable〕"
+			],
+			[
+				"a",
+				"$aData〔variable〕"
+			],
+			[
+				"argu",
+				"$arguments〔variable〕"
+			],
+			[
+				"oF",
+				"oField"
+			],
+			[
+				"set",
+				"setAlwaysValidOverride〔function〕"
+			],
+			[
+				"verify",
+				"verifySubmit"
+			],
+			[
+				"session_s",
+				"session_status〔function〕"
+			],
+			[
+				"ver",
+				"verifySubmit"
+			],
+			[
+				"Logun",
+				"LogunForm〔class〕"
+			],
+			[
+				"TY",
+				"TYPE_STANDARD〔constant〕"
+			],
+			[
+				"debug",
+				"debug_print_backtrace〔function〕"
+			],
+			[
+				"sForm",
+				"sFormHeader"
+			],
+			[
+				"sF",
+				"sFormHeader〔variable〕"
+			],
+			[
+				"setup",
+				"setupFormFields〔function〕"
+			],
+			[
+				"getF",
+				"getFormName〔function〕"
+			],
+			[
+				"getR",
+				"getRequestField〔function〕"
+			],
+			[
+				"s",
+				"setInput〔function〕"
+			],
+			[
+				"func_get",
+				"func_get_args〔function〕"
+			],
+			[
+				"aD",
+				"$aDefaultInputRules〔variable〕"
+			],
+			[
+				"aI",
+				"$aInputSetup〔variable〕"
+			],
+			[
+				"getAss",
+				"getAssignedRules〔function〕"
+			],
+			[
+				"aR",
+				"$aRules〔variable〕"
+			],
+			[
+				"aS",
+				"$aStandardConstruct〔variable〕"
+			],
+			[
+				"get",
+				"getName〔function〕"
+			],
+			[
+				"M",
+				"METHOD_GET〔constant〕"
+			],
+			[
+				"iL",
+				"$iLength〔variable〕"
+			],
+			[
+				"aA",
+				"$aAlternativeFields〔variable〕"
+			],
+			[
+				"oA",
+				"$oAlternativeField〔variable〕"
+			],
+			[
+				"exe",
+				"executeCondition"
+			],
+			[
+				"getV",
+				"getValue〔function〕"
+			],
+			[
+				"aVa",
+				"$aValidators〔variable〕"
+			],
+			[
+				"sI",
+				"$sInputName〔variable〕"
+			],
+			[
+				"Log",
+				"LogunRenderer〔class〕"
+			],
+			[
+				"crea",
+				"createInputBlowoutArray"
+			],
+			[
+				"aO",
+				"$aOutput〔variable〕"
+			],
+			[
+				"LOGUN",
+				"LOGUN_RENDER_ARRAY_HTML〔constant〕"
+			],
+			[
+				"mV",
+				"$mValue〔variable〕"
+			],
+			[
+				"sA",
+				"$sAttributeName〔variable〕"
+			],
+			[
+				"aL",
+				"$aLabelAttributes〔variable〕"
+			],
+			[
+				"o",
+				"$oField〔variable〕"
+			],
+			[
+				"array_u",
+				"array_unique〔function〕"
+			],
+			[
+				"aE",
+				"$aElementDefaults〔variable〕"
+			],
+			[
+				"sAtr",
+				"$sAttrValue〔variable〕"
+			],
+			[
+				"sAttr",
+				"$sAttrValue〔variable〕"
+			],
+			[
+				"sN",
+				"$sName〔variable〕"
+			],
+			[
+				"sM",
+				"$sMethod〔variable〕"
+			],
+			[
+				"aP",
+				"$aProjectData〔variable〕"
+			],
+			[
+				"aF",
+				"$aFiles〔variable〕"
+			],
+			[
+				"add",
+				"addToFiles"
+			],
+			[
+				"input",
+				"input_defaults"
+			],
+			[
+				"Lo",
+				"LogunRenderer"
+			],
+			[
+				"setFormA",
+				"setFormAttributes"
+			],
+			[
+				"setForm",
+				"setFormAction"
+			],
+			[
+				"aC",
+				"$aConfig〔variable〕"
+			],
+			[
+				"T",
+				"TYPE_STATIC〔constant〕"
+			],
+			[
+				"TYP",
+				"TYPE_STANDARD"
+			],
+			[
+				"class",
+				"class_implements"
+			],
+			[
+				"table-c",
+				"table-cell"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/home/loup/dev/www/php/logun/index.php",
+			"settings":
+			{
+				"buffer_size": 5643,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "sources/inputs/select.php",
+			"settings":
+			{
+				"buffer_size": 3054,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "sources/inputs/text.php",
+			"settings":
+			{
+				"buffer_size": 303,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "sources/inputs/Input.php",
+			"settings":
+			{
+				"buffer_size": 4238,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Constructor.php",
+			"settings":
+			{
+				"buffer_size": 810,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "config.php",
+			"settings":
+			{
+				"buffer_size": 1142,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "sources/inputs/file.php",
+			"settings":
+			{
+				"buffer_size": 2864,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "<?php\n\n/*\n * @author loup\n*/\n\nrequire_once ('Constructor.php');\n\nclass LogunForm extends LogunConstructor{\n    \n    const TYPE_STANDARD = 1;\n    const TYPE_AJAX = 2;\n    const TYPE_STATIC = 3;\n    \n    const METHOD_POST = 'POST';\n    const METHOD_GET = 'GET';\n    const CALLER_NAME_LENGTH = 4;\n\n    const FORM_SECURITY_FIELD_NAME = 'securityField';\n    \n    private $aFields = null;\n	private $aSetupFields = [];\n	private $aParseTools = [];\n    private $aRules = null;\n    \n    private $iType = 0;\n    private $sAction = '';\n    private $aAttributes = [];\n    private $aConfig = [];\n    private $aRenderPresets = [];\n    private $sMethod = '';\n    private $sId = '';\n    private $sName = '';\n    private $aCallers = [];\n	private $aValues = [];\n	private $aParseOnSubmit = [];\n    private $bSubmitVerified = null;\n\n    private $bValid = true;\n    private $sFormSecurityCheckValue = \"\";\n    private $bAlwaysValid = false;\n\n    /**\n     *\n     * @param string $sName name of form. If there is no id attribute, id is equal to name\n     * @param string $sAction [optional]  address of submit action. If null, current url is applied. If type of form is ajax, ajax support is set to default, and action is null, form sends request to constructed url address.\n     * @param string $sType [optional] - standard: standard html form <br /> - ajax: results sent over ajax request <br /> - static: submit is disabled\n     * @param array $aAttributes    [optional]  <br />-   method: default is POST<br />-   class: class or classes (separated by commas) describing this form<br />-   input_defaults: array of default assigned to all children inputs (additionaly to attributes set in optional attributes of input). eg. [class=>'input'] means that all of inputs will have assigned the input class to their defined classes<br />-   id: if id is not to be the same as form name<br />-   attr:  an array of array pairs - attribute name => attribute value<br />-   js: an array of array pairs - event name => js function\n     * @param array $aConfig    [optional]  <br />\n     -   ajax_support\n     <br />*   default (===null):    logun calls, via default js function, supplied with serialized form, to page URL/FORM_NAME to verify form via ajax<br />*   name of js function: logun calls js function, supplying it with serialized form<br />-   ajax_url_template: sprintf-ready string containing prepared address for ajax validation, overriding default url. Only parameter for replacement if formName (eg. ajax/%s.formcheck.ajax is parsed to ajax/FORM_NAME.formcheck.ajax)<br />-   ajax_js_caller: name of js function to be used instead of default login function. Overwrites only when ajax_support is set to default<br />-   render_type<br />*   default (===null): logun  prepares input fields and forms as constructed html<br />*   template_manager: login uses supplied template manager to construct form<br />-   render_lib = is render_type is set to template_manager, reference to object responsible for constructing templates<br />-   template_dir = if render_type is set to template_manager, this variable sets path under witch logun is supposed to find templates for inputs and forms, to later use in template rendering ()<br />-   render_fetch<br />-   render_assign<br />-   js_lib<br />-   js_support<br />-   i18n_type<br />-   i18n_lib<br />-   captcha_type<br />-   captcha_lib<br />-   upload_lib\n     * @return object LogunForm instance\n     */\n    public function __construct($sName, $sAction = null, $sType = null, $aAttributes = [], $aConfig = []) {\n        parent::__construct();\n        \n        $this->setFormType((empty($sType) ? self::TYPE_STANDARD : $sType));\n        $this->setFormAction((empty($sAction) ? LOGUN_CURRENT_URL : $sAction));\n        $this->setFormAttributes($aAttributes);\n        $this->setFormConfig($aConfig);\n        \n        $this->aFields = array();\n        $this->aRules = array();\n        \n        $this->aCallers = $this->getLogunCallers();\n\n        $this->sFormSecurityCheckValue = $this->generateSecurityValue();\n\n    }\n\n    private function generateSecurityValue(){\n        return md5($this->getFormName() . time() . LOGUN_SECURITY_SALT);\n    }\n    \n    public function setAlwaysValidOverride(){\n        $this->bAlwaysValid = true;\n    }\n\n    public function setFormType($iType) {\n        $this->iType = $iType;\n    }\n    \n    public function setFormAction($sAction) {\n        $this->sAction = $sAction;\n    }\n    \n    public function setFormMethod($sMethod) {\n        $this->sMethod = $sMethod;\n    }\n    \n    public function setFormId($sId) {\n        $this->sId = $sId;\n    }\n    \n    public function setFormName($sName) {\n        $this->sName = $sName;\n    }\n    \n    public function setValues($aValues){\n      $this->aValues = $aValues;\n    }\n\n    public function getFormType() {\n        return $this->iType;\n    }\n    \n    public function getFormAction() {\n        return $this->sAction;\n    }\n    \n    public function getFormMethod() {\n        return $this->sMethod;\n    }\n    \n    public function getFormId() {\n        return $this->sId;\n    }\n    \n    public function getFormName() {\n        return $this->sName;\n    }\n    \n    public function getFormAttributes() {\n        return $this->aAttributes;\n    }\n    \n    public function getRendererDefaults() {\n        return $this->aRenderPresets;\n    }\n\n	public function addParseTool($sFieldType, $cParseTool){\n		//if a parse tool has been set previosly (ie. in form call), do not override it (ie. by input properties)\n		if(empty($this->aParseTools[$sFieldType]) \n				&& is_callable($cParseTool)){\n			$this->aParseTools[$sFieldType] = $cParseTool;\n		}\n	}\n\n    private function hasParseTool($sFieldType){\n        return !empty($this->aParseTools[$sFieldType]);\n    }\n\n    private function getParseTool($sFieldType){\n        return $this->aParseTools[$sFieldType];\n    }\n\n    private function callParseTool(Input $oField){\n        return call_user_func_array($this->getParseTool($oField->getType()), [$oField->getValue()]);\n    }\n\n    private function getRequestField($sFieldName){\n\n        switch($this->getFormMethod()){\n            case self::METHOD_GET:\n                return @$_GET[$sFieldName];    \n            break;\n\n            case self::METHOD_POST:\n                return @$_POST[$sFieldName];    \n            break;\n        }\n    }\n\n    /**\n    * add required fields to the form\n    */\n\n    private function setupFormFields(){\n        $oFormSecurityField = $this->addSetupField('hidden', self::FORM_SECURITY_FIELD_NAME);\n        $oFormSecurityField->setValue($this->sFormSecurityCheckValue);\n    }\n\n    private function getInputValue($sInputName){\n			if(!empty($this->aValues[$sInputName])){\n        return $this->aValues[$sInputName];\n      }\n      else{\n				if(!empty($this->getRequestField($sInputName))){\n            return $this->getRequestField($sInputName);\n        }\n			}\n\n			return null;\n    }\n\n    /*attributes [optional]\n          -   method: default is POST\n          -   class: class or classes (separated by commas) describing this form\n          -   input_defaults: array of default assigned to all children inputs (additionaly to attributes set in optional attributes of input). eg. [class=>'input'] means that all of inputs will have assigned the input class to their defined classes\n          -   id: if id is not to be the same as form name\n          -   attr:  an array of array pairs - attribute name => attribute value\n          -   js: an array of array pairs - event name => js function\n    */\n    \n    private function setFormAttributes($aAttributes) {\n        if (!empty($aAttributes)) {\n            \n            if (!empty($aAttributes['method'])) {\n                $this->setFormMethod(strtoupper($aAttributes['method']));\n            }\n            \n            if (!empty($aAttributes['id'])) {\n                $this->setFormId($aAttributes['id']);\n            }\n            \n            if (!empty($aAttributes['attr'])) {\n                $this->aAttributes = $aAttributes['attr'];\n            }\n            \n            if (!empty($aAttributes['class'])) {\n                $this->setRendererDefaults('class', $aAttributes['class']);\n            }\n            \n            if (!empty($aAttributes['input_defaults'])) {\n                $this->setRendererDefaults('input_defaults', $aAttributes['input_defaults']);\n            }\n            \n            if (!empty($aAttributes['js'])) {\n                $this->setRendererDefaults('form_js', $aAttributes['js']);\n						}\n\n						if (!empty($aAttributes['parse']) \n								&& is_array($aAttributes['parse'])) {\n								foreach($aAttributes['parse'] as $sType	=>	$cTool){\n	                $this->addParseTool($sType, $cTool);\n								}\n            }\n\n        }\n    }\n    \n    private function setRendererDefaults($sKey, $mValue) {\n        $this->aRenderPresets[$sKey] = $mValue;\n    }\n    \n    private function setFormConfig() {\n    }\n    \n    /*\n     * @param string $aArray\n    */\n    public function constructFromArray() {\n    }\n    \n    public function constructFromTemplate() {\n    }\n    \n    private function construct() {\n    }\n    \n    /*\n     *\n     *\n    */\n    \n		private function setInput($sName){\n        if (file_exists(LOGUN_PATH_INPUTS . $sName . LOGUN_INPUT_EXTENSION)) {\n            require_once (LOGUN_PATH_INPUTS . $sName . LOGUN_INPUT_EXTENSION);\n            \n            if (class_exists($sName)) {\n                return true;\n            }\n        }\n        \n        die('Input type \"' . $sName . '\" is not supported');\n    }\n\n    private function setRule($sName){\n        if (file_exists(LOGUN_PATH_VALIDATORS . $sName . LOGUN_VALIDATOR_EXTENSION)) {\n            require_once (LOGUN_PATH_VALIDATORS . $sName . LOGUN_VALIDATOR_EXTENSION);\n            \n            if (class_exists($sName)) {\n                return true;\n                \n            }\n        }\n        \n        die('Validator type \"' . $sName . '\" is not supported');\n    }\n\n    private function input($name, $arguments) {\n\n				$sName = strtolower($name);\n\n				if(!empty($this->getField($sName))){\n					die('field named \"'.$sName.'\" already exist! Remember - field names are CASE INSENSITIVE');\n					return false;\n				}\n\n        $arguments[0] = empty($arguments[0]) ? '' : $arguments[0];\n        $arguments[1] = empty($arguments[1]) ? '' : $arguments[1];\n        $arguments[2] = empty($arguments[2]) ? [] : $arguments[2];\n        \n        if($this->setInput($name)){\n            list($sName, $sLabel, $aArguments) = $arguments;\n                \n            return $this->addField(new $name($sName, $sLabel, $aArguments));    \n        }\n    }\n    \n    /**\n     *add validation rules to form\n     *constructor:\n     * error message / if i18n is set, message identifier\n     * argument\n     * array of other arguments\n     */\n    \n    private function rule($sRuleName, $arguments) {\n        $arguments[0] = empty($arguments[0]) ? '' : $arguments[0];\n        $arguments[1] = empty($arguments[1]) ? '' : $arguments[1];\n        $arguments[2] = empty($arguments[2]) ? [] : $arguments[2];\n        \n        if ($this->setRule($sRuleName)) {\n            list($sMessage, $basicQuantifier, $aArguments) = $arguments;\n        \n            return $this->addRule(new $sRuleName($sMessage, $basicQuantifier, $aArguments));\n        }\n        \n        die('Validation rule \"' . $sRuleName . '\" is not supported');\n    }\n\n		/*\n		 *@param Input $oInput form field \n		 *@param Array $aInputSetup array\n		 *@return void\n		 *\n		 *@description check if input field $oInput has specyfic prerequisites for rendering form\n		 */\n\n		private function setupInput(Input $oInput, $aInputSetup){\n        if(!empty($aInputSetup)){\n\n						if(!empty($aInputSetup['rules'])){\n	            foreach($aInputSetup['rules'] as $sRuleName => $aRuleParams){\n                $oInput->addValidator($this->rule($sRuleName, $aRuleParams));\n							}\n						}\n\n						if(!empty($aInputSetup['form'])){\n						 	if(!empty($aInputSetup['form']['attributes'])){\n								$this->setFormAttributes(['attr'	=>	$aInputSetup['form']['attributes']]);\n							}\n						 	if(!empty($aInputSetup['form']['parse'])){\n								$this->setFormAttributes(['parse'	=>	$aInputSetup['form']['parse']]);\n							}\n						}\n        }\n    }\n\n    private function addField(Input $oInput) {\n        $sInputName = $oInput->getName();\n\n        if(empty($oInput->getValue()) || $this->verifySubmit()){\n            $oInput->setValue($this->getInputValue($sInputName));\n        }\n        \n        $this->aFields[$sInputName] = $oInput; \n        $this->setupInput($oInput, $oInput->getInputSetup());\n\n        return $oInput;\n    }\n\n		private function getField($sFieldName){\n			if(in_array($sFieldName, array_keys($this->aFields))){\n				return $this->aFields[$sFieldName];\n			}\n			return null;\n		}\n\n    private function addSetupField($sType, $sName, $aAttributes = []) {\n        if($this->setInput($sType)){\n            $oInput = new $sType($sName);\n            $this->aSetupFields[$oInput->getName()] = $oInput;\n            return $oInput;\n        }\n    }\n\n    private function addRule(Rule $oRule) {\n        if($oRule->getRuleType() == 'form'){\n          $this->aRules[] = $oRule;\n        } \n\n        return $oRule;\n    }\n    \n    public function getHtmlFormHeader($aAdditionalParams = []) {\n        $sFormBase = '<form';\n        \n        /*switch($this->getFormType()){\n        case self::TYPE_AJAX:\n        \n        break;\n        case self::TYPE_STANDARD:\n        \n        break;\n        case self::TYPE_STATIC:\n        \n        break;\n        }*/\n        \n        $aParams = $this->getFormAttributes() + $aAdditionalParams;\n        \n        $aParams['method'] = $this->getFormMethod();\n        $aParams['action'] = $this->getFormAction();\n        $aParams['name'] = $this->getFormName();\n        $aParams['id'] = $this->getFormId();\n        \n        foreach ($aParams as $sAttrName => $sAttrValue) {\n            if (!empty($sAttrValue)) {\n                $sFormBase.= ' ' . $sAttrName . '=\"' . $sAttrValue . '\"';\n            }\n        }\n        \n        $sFormBase.= ' />';\n        \n        return $sFormBase;\n    }\n    \n    public function getHtmlFormFooter() {\n        $this->setupFormFields();\n\n        $sFormClose = '';\n\n        foreach($this->aSetupFields as $oField){\n            $sFormClose .= $oField->getHtml() . \"\\n\";\n        }\n\n        $sFormClose .= '</form>';\n\n        return $sFormClose;\n    }\n    \n    public function getFields() {\n        return $this->aFields;\n    }\n    \n    public function verifySubmit(){\n        if($this->bAlwaysValid){\n            print 'Always Valid Override Is On'.\"\\n\";\n            return true;\n        }\n\n        if($this->bSubmitVerified !== null ){\n            return $this->bSubmitVerified;\n        }\n\n        if(empty($_SESSION[self::FORM_SECURITY_FIELD_NAME])){\n            $_SESSION[self::FORM_SECURITY_FIELD_NAME] = $this->sFormSecurityCheckValue;\n        }\n\n        if($this->getRequestField(self::FORM_SECURITY_FIELD_NAME) == $_SESSION[self::FORM_SECURITY_FIELD_NAME]){\n            $this->bSubmitVerified = true;\n        }\n        else{\n            $this->bSubmitVerified = false;\n        } \n\n        $_SESSION[self::FORM_SECURITY_FIELD_NAME] = $this->sFormSecurityCheckValue;\n\n\n        return $this->bSubmitVerified;\n    }\n\n	private function parseFormValues(){\n        foreach($this->aFields as $oField){\n            if($this->hasParseTool($oField->getType())){\n                    $this->callParseTool($oField);    \n            }\n        }\n	}\n\n    private function renderActions(){\n        if($this->verifySubmit()){\n			$this->validate();\n\n			if($this->isValid()){\n				$this->parseFormValues();\n			}\n        }\n    }\n\n	private function get($sFieldName){\n		$sFieldName = strtolower($sFieldName);\n\n		$oRequestedField = $this->getField($sFieldName);\n		if(!empty($oRequestedField)){\n			return $oRequestedField->getValue();\n		}\n\n		return null;\n	}\n\n    public function getArray() {\n        $this->renderActions();        \n        return (new LogunRenderer($this))->getOutput(LogunRenderer::LOGUN_RENDER_ARRAY);\n    }\n    \n    public function getHtmlArray() {\n        $this->renderActions();\n        return (new LogunRenderer($this))->getOutput(LogunRenderer::LOGUN_RENDER_ARRAY_HTML);\n    }\n\n    public function validate(){\n      foreach($this->aFields as $oField){\n        if(!$oField->validate()){\n            $this->bValid = false;\n            print $oField->getName() . ' is not valid' . \"<br />\\n\";\n        }\n        else{\n            print $oField->getName() . ' is valid' . \"<br />\\n\";\n            $this->parseFormValues();\n            \n        }\n      }\n    }\n\n    public function isValid(){\n        return $this->bValid;\n    }\n\n    public function __toString() {\n        $this->renderActions();\n        return (new LogunRenderer($this))->getOutput();\n    }\n\n    public function __call($name, $arguments) {        \n        //caller name if first 4 chars of function. All callers are available in private 'callers' array. If caller name is not in supported\n        //callers array, assume that functino is a input call\n		$sCallerName = substr($name, 0, strcspn($name, 'ABCDEFGHJIJKLMNOPQRSTUVWXYZ'));\n				\n		if (in_array($sCallerName, $this->aCallers)) {\n            $sCalleeNameParam = lcfirst(substr($name, strcspn($name, 'ABCDEFGHJIJKLMNOPQRSTUVWXYZ')));\n            return $this->$sCallerName($sCalleeNameParam, $arguments);\n        }\n        \n        //see if there is an input file with supplied name\n        return $this->input($name, $arguments);\n    }\n}\n",
+			"file": "LogunForm.php",
+			"file_size": 17649,
+			"file_write_time": 1433100660000000,
+			"settings":
+			{
+				"buffer_size": 17493,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				":w",
+				":w - Save"
+			],
+			[
+				":ins",
+				"Package Control: Install Package"
+			],
+			[
+				":wa",
+				":w - Save"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"package li",
+				"Package Control: List Packages"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: List Packages"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"Pa",
+				"Package Control: Install Package"
+			],
+			[
+				"Pac",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/loup/dev/www/php/logun/logun/sources/inputs/email.php",
+		"/home/loup/dev/www/php/logun/logun/sources/validators/Rule.php",
+		"/home/loup/dev/www/php/logun/logun/sources/validators/emailCompatible.php",
+		"/home/loup/dev/www/php/logun/logun/sources/interfaces/Input.interface.php",
+		"/home/loup/dev/www/php/logun/logun/sources/inputs/Input.php",
+		"/home/loup/dev/www/php/logun/logun/Constructor.php",
+		"/home/loup/dev/www/php/logun/logun/LogunRenderer.php",
+		"/home/loup/dev/www/php/logun/logun/LogunForm.php",
+		"/home/loup/dev/www/php/logun/form.html",
+		"/home/loup/dev/www/php/logun/logun/sources/inputs/submit.php",
+		"/home/loup/dev/www/php/logun/gratz.html",
+		"/home/loup/dev/www/php/hpv6/index.php",
+		"/home/loup/dev/www/php/logun/logun/sources/inputs/text.php",
+		"/home/loup/dev/www/php/logun/logun/sources/validators/urlCompatible.php",
+		"/home/loup/dev/www/php/logun/logun/config.php",
+		"/home/loup/dev/www/php/logun/logun/sources/interfaces/Rule.interface.php",
+		"/home/loup/dev/www/php/logun/logun/form.html",
+		"/home/loup/dev/www/php/logun/logun/sources/Input.php",
+		"/home/loup/dev/www/php/logun/logun/sources/inputs/hidden.php",
+		"/home/loup/dev/www/php/logun/logun/sources/validators/email.php",
+		"/home/loup/dev/www/php/logun/logun/sources/inputs/url.php",
+		"/home/loup/dev/www/php/logun/logun/sources/Rule.php",
+		"/home/loup/dev/www/php/logun/logun/validators/email.php",
+		"/home/loup/dev/www/php/logun/logun/validators/nonNumeric.php",
+		"/home/loup/dev/www/php/logun/logun/inputs/email.php",
+		"/home/loup/dev/www/php/logun/logun/validators/url.php",
+		"/home/loup/dev/www/php/logun/logun/validators/maxLength.php",
+		"/home/loup/dev/www/php/logun/logun/validators/minLength.php",
+		"/home/loup/dev/www/php/logun/logun/validators/requiredIfAny.php",
+		"/home/loup/dev/www/php/logun/logun/validators/requiredIfAll.php",
+		"/home/loup/dev/www/php/logun/logun/validators/requiredIf.php",
+		"/home/loup/dev/www/php/logun/logun/validators/required.php",
+		"/home/loup/dev/www/php/logun/logun/validators/regexp.php",
+		"/home/loup/dev/www/php/logun/logun/validators/optionalIfAny.php",
+		"/home/loup/dev/www/php/logun/logun/validators/optionalIfAll.php",
+		"/home/loup/dev/www/php/logun/logun/validators/optionalIf.php",
+		"/home/loup/dev/www/php/logun/logun/optionalIfAny",
+		"/home/loup/dev/www/php/logun/logun/inputs/text.php",
+		"/home/loup/dev/www/php/logun/logun/readme.md",
+		"/home/loup/.config/sublime-text-2/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/loup/.config/sublime-text-2/Packages/User/Default (Linux).sublime-keymap",
+		"/home/loup/dev/www/php/agro2/agro2.sql",
+		"/home/loup/dev/www/php/logun/logun/inputs/textfield.php",
+		"/home/loup/dev/www/php/logun/logun/textfield.php",
+		"/home/loup/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+		"/home/loup/dev/www/php/agro2/src/gallery.php",
+		"/home/loup/Dropbox/scripts/ftp.php",
+		"/home/loup/dev/www/php/templates/index.php",
+		"/home/loup/dev/www/php/szablony/index.php",
+		"/home/loup/dev/www/php/logun/logun",
+		"/home/loup/dev/www/php/logun/index.php",
+		"/home/loup/dev/www/php/ragnacode/webroot/css/default.css",
+		"/home/loup/dev/www/php/h3/index.html",
+		"/home/loup/dev/www/php/ragnacode/tpl/header.html",
+		"/home/loup/dev/www/php/ragnacode/tpl/pricing.html",
+		"/home/loup/dev/www/php/ragnacode/tpl/services.html",
+		"/home/loup/dev/www/php/ragnacode/tpl/about_us.html",
+		"/home/loup/dev/www/php/ragnacode/tpl/footer.html",
+		"/home/loup/dev/www/php/ragnacode/tpl/home.html",
+		"/home/loup/dev/www/php/ragnacode/tpl/portfolio.html",
+		"/home/loup/dev/www/php/ragnacode/webroot/js/pageNav.js",
+		"/home/loup/dev/www/php/ragnacode/tpl/meta.html",
+		"/etc/nginx/nginx.conf",
+		"/etc/nginx/conf.d/base.conf",
+		"/etc/nginx/conf.d/dev.conf",
+		"/home/loup/dev/www/php/agro2/tpl/agro_galeria_modal_kun_drasil_ookami_duzo_roznych_slow_i_renia.html",
+		"/home/loup/dev/www/php/agro2/tpl/buttons01.html",
+		"/home/loup/dev/www/php/agro2/tpl/buttons02.html",
+		"/home/loup/dev/www/php/agro2/tpl/cennik2.html",
+		"/home/loup/dev/www/php/agro2/tpl/cennik.html",
+		"/home/loup/dev/www/php/agro2/tpl/content.html",
+		"/home/loup/dev/www/php/agro2/tpl/footer.html",
+		"/home/loup/dev/www/php/agro2/tpl/galeria.html",
+		"/home/loup/dev/www/php/agro2/tpl/gallery.html",
+		"/home/loup/dev/www/php/agro2/tpl/header.html",
+		"/home/loup/dev/www/php/agro2/tpl/index.html",
+		"/home/loup/dev/www/php/agro2/tpl/kontakt.html",
+		"/home/loup/dev/www/php/agro2/tpl/menu.html",
+		"/home/loup/dev/www/php/agro2/tpl/meta.html",
+		"/home/loup/dev/www/php/agro2/tpl/miniHeader.html",
+		"/home/loup/dev/www/php/agro2/tpl/slider.html",
+		"/home/loup/dev/Sublime Text 2/a"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"move_uploaded",
+			"print",
+			"exit",
+			"verifysubmit",
+			"aparsetools",
+			"parse",
+			"br",
+			"parse",
+			"oParent",
+			"copyri",
+			"setup",
+			"aPassedRules",
+			"bValid",
+			"getrequestfield",
+			"aValues",
+			"^",
+			"verifySubmit",
+			"getinputvalue",
+			"security",
+			"br /",
+			"^",
+			"label",
+			"addtooutput",
+			"gethtmlformfooter",
+			"setupformfields",
+			"addsetupfield",
+			"setinput",
+			"input type",
+			"setupform",
+			"switch",
+			"gethtml",
+			"setup",
+			"submitVerified",
+			"form",
+			"addValidator",
+			"in_array",
+			"aRules",
+			"method",
+			"getinputvalue",
+			"value",
+			"iMaxLength",
+			"rule",
+			"getValue",
+			"extractInputDefaults",
+			"method",
+			"post",
+			"LOGIN_RENDER_STRING",
+			"setrende",
+			"private",
+			"\\(.*\\)\\{",
+			"set",
+			"setupRendererDefaults",
+			"method",
+			"setRenderDefaults",
+			"\\*",
+			" *",
+			"* ",
+			"/**",
+			"	for($i = 0; $i < 10; $i++){\n		$oForm->email('emailField'.$i, 'labelka do email '.$i);\n	}",
+			"Vintage",
+			"\\$this->",
+			"min-height",
+			".subpage",
+			"contact.js",
+			".subpage",
+			"h3 .subpage",
+			".subpage",
+			".png",
+			"\\/\\*.*\\*\\/",
+			"/*"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"\\/\\/",
+			"\\(\\)\\{",
+			"get",
+			"method",
+			"\n",
+			"	for($i = 0; $i < 10; $i++){\n		$oForm->email('emailField'.$i, 'labelka do email '.$i);\n	}",
+			"private $",
+			".jpg",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 6,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/home/loup/dev/www/php/logun/index.php",
+					"settings":
+					{
+						"buffer_size": 5643,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3265,
+								3265
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"auto_complete": false,
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"devel": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": "load-save",
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 913.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "sources/inputs/select.php",
+					"settings":
+					{
+						"buffer_size": 3054,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"auto_complete": false,
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"devel": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": "load-save",
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1444.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "sources/inputs/text.php",
+					"settings":
+					{
+						"buffer_size": 303,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								194,
+								194
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"devel": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": "load-save",
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "sources/inputs/Input.php",
+					"settings":
+					{
+						"buffer_size": 4238,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"auto_complete": false,
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"devel": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": "load-save",
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1785.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "Constructor.php",
+					"settings":
+					{
+						"buffer_size": 810,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"devel": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": "load-save",
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "config.php",
+					"settings":
+					{
+						"buffer_size": 1142,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								430,
+								430
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"auto_complete": false,
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"devel": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": "load-save",
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "sources/inputs/file.php",
+					"settings":
+					{
+						"buffer_size": 2864,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1518,
+								1531
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"auto_complete": false,
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"devel": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": "load-save",
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 359.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "LogunForm.php",
+					"settings":
+					{
+						"buffer_size": 17493,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								15855,
+								15855
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"auto_complete": false,
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"devel": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": "load-save",
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 8260.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"email",
+				"sources/inputs/email.php"
+			],
+			[
+				"rule",
+				"sources/validators/Rule.php"
+			],
+			[
+				"emailc",
+				"sources/validators/emailCompatible.php"
+			],
+			[
+				"",
+				"sources/inputs/Input.php"
+			],
+			[
+				"logun",
+				"LogunForm.php"
+			],
+			[
+				"inp",
+				"sources/inputs/Input.php"
+			],
+			[
+				"rende",
+				"LogunRenderer.php"
+			],
+			[
+				"in",
+				"sources/inputs/Input.php"
+			],
+			[
+				"input",
+				"sources/inputs/Input.php"
+			],
+			[
+				"text",
+				"sources/inputs/text.php"
+			],
+			[
+				"logunf",
+				"LogunForm.php"
+			],
+			[
+				"inpu",
+				"sources/inputs/Input.php"
+			],
+			[
+				"hidd",
+				"sources/inputs/hidden.php"
+			],
+			[
+				"te",
+				"sources/inputs/text.php"
+			],
+			[
+				"url",
+				"sources/validators/url.php"
+			],
+			[
+				"non",
+				"validators/nonNumeric.php"
+			],
+			[
+				"validaemail",
+				"validators/email.php"
+			],
+			[
+				"inter",
+				"sources/interfaces/Input.interface.php"
+			],
+			[
+				"cons",
+				"Constructor.php"
+			],
+			[
+				"inputex",
+				"inputs/text.php"
+			],
+			[
+				"read",
+				"readme.md"
+			],
+			[
+				"logunr",
+				"LogunRenderer.php"
+			],
+			[
+				"l",
+				"LogunForm.php"
+			],
+			[
+				"lo",
+				"LogunForm.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 232.0,
+	"status_bar_visible": true
+}

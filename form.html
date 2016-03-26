@@ -1,0 +1,42 @@
+<html>
+	<head>
+		<title>Logun Form v 0.0.1 pre-alpha</title>
+	</head>
+
+	<body>
+
+		<fieldset>
+			<legend>Post Value</legend>
+			<pre>
+				<?=print_r($_POST, true);?>
+			</pre>
+		</fieldset>
+
+		<fieldset>
+			<legend>Example form</legend>
+
+			<?=$aForm['formHeader'];?>
+
+			<?php
+
+				foreach($aForm as $key=>$val){
+					if($key != 'formHeader' && $key != 'formFooter'){
+						if(!empty($val['error_message'])){
+							echo $val['error_message'] . "<br />";
+						}
+						echo "\n" . $val['label'] . "\n" . $val['html'] . " <br />  ";
+						echo "<div>
+							<span style='color:green;'><b>PASS: </b>".$val['passed_rules']."</span><br />
+							<span style='color:red;'><b>FAIL: </b>".$val['failed_rules']."</span><br />
+						</div> <br />\n";
+					}
+				}
+
+			?>
+
+			<?=$aForm['formFooter'];?>
+
+		</fieldset>
+	</body>
+
+</html>
